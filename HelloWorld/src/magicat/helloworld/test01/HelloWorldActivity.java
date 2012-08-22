@@ -19,7 +19,7 @@ public class HelloWorldActivity extends Activity {
         setContentView(R.layout.main);        
         findViews();
         setListeners(); 
-       
+     
     };
 
     private Button button_calc;
