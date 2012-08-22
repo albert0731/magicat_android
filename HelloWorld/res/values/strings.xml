@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Square Calculation</string>
+    <string name="bmi_btn">Calculation!</string>
+    <string name="about_title">About</string>
+    <string name="about_msg">作者 albert0731\n\n
+                			albert0731 [at] gmail.com</string>
+                			
+	<string name="ok_label">確認</string>
+	<string name="input_error">打錯了嗎？只能輸入數字喔</string>
+	<string name="homepage_label">首頁</string>
+	<string name="homepage_uri">http://androidbmi.googlecode.com/</string>
+</resources>
